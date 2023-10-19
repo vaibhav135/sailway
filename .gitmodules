@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/vaibhav135/sailway-frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/vaibhav135/sailway-backend
